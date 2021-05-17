@@ -3,7 +3,7 @@ A simple stock marcket prediction.
 
 Please do not use as a professional tool, for predicting stock marckets. My intention was to demonstrate my skills in python language.
 
-# pre-conditions
+# prerequisite
 Please install required libraries before using the software.
 "pip install numpy matplotlib pandas pandas-datareader tensorflow scikit-learn"
 
